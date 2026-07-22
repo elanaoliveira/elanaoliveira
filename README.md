@@ -1,5 +1,15 @@
 # 👋 Hi, I'm Elana Oliveira
 
+### Backend Developer | Software Development Student
+
+💻 Python • Java • SQL
+
+📊 Data Analytics • Power BI
+
+🏗️ Civil Engineering Student
+
+🇧🇷 Brazil
+
 ## 💻 Aspiring Backend Developer | Software Development Student
 
 I'm passionate about technology and continuously improving my skills in software development, data analytics, and problem solving.
