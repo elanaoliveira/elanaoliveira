@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi, I'm Elana Oliveira
 
-<!--
-**elanaoliveira/elanaoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Software Development Student
 
-Here are some ideas to get you started:
+I'm passionate about technology and continuously improving my skills in software development, data analytics, and problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 Education
+
+- 🎓 Software Development Student
+- 🏗️ Civil Engineering Student
+
+---
+
+## 🚀 Technologies
+
+- 🐍 Python
+- ☕ Java
+- 🗄️ SQL
+- 📊 Power BI
+- 📈 Pandas
+- 📉 Matplotlib
+- 🌱 Git
+- 📂 GitHub
+
+---
+
+## 🌱 Currently Learning
+
+- Backend Development
+- Object-Oriented Programming (OOP)
+- REST APIs
+- SQL Databases
+- Data Analysis
+- Software Engineering
+
+---
+
+## 🎯 Career Goal
+
+I am building practical projects to strengthen my software development skills and create solutions through technology.
+
+---
+
+## 📫 Connect with me
+
+💼 LinkedIn:
+www.linkedin.com/in/euelanaoliveira
+
+📧 Email:
+euelanaoliveira@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
