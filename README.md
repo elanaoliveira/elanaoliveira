@@ -49,7 +49,6 @@ www.linkedin.com/in/euelanaoliveira
 euelanaoliveira@gmail.com
 
 ---
----
 
 ## 📊 GitHub Stats
 
