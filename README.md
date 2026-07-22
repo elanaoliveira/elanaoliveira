@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Elana Oliveira
 
-## 💻 Software Development Student
+## 💻 Aspiring Backend Developer | Software Development Student
 
 I'm passionate about technology and continuously improving my skills in software development, data analytics, and problem solving.
 
