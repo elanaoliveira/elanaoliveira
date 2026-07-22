@@ -63,8 +63,8 @@ euelanaoliveira@gmail.com
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=elanaoliveira&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elanaoliveira&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=elanaoliveira&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elanaoliveira&layout=compact&theme=github_dark&hide_border=true" height="170"/>
 </p>
 ⭐ Thanks for visiting my profile!
 
