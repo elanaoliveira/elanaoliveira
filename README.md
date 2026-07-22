@@ -10,7 +10,7 @@
 
 🇧🇷 Brazil
 
-## 💻 Aspiring Backend Developer | Software Development Student
+## 👨‍💻 About Me
 
 I'm passionate about technology and continuously improving my skills in software development, data analytics, and problem solving.
 
