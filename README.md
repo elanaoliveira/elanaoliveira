@@ -51,3 +51,5 @@ euelanaoliveira@gmail.com
 ---
 
 ⭐ Thanks for visiting my profile!
+
+Let's connect and build amazing things through technology!
