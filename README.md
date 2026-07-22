@@ -13,16 +13,13 @@ I'm passionate about technology and continuously improving my skills in software
 
 ---
 
-## 🚀 Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,git,github,mysql" />
+</p>
 
-- 🐍 Python
-- ☕ Java
-- 🗄️ SQL
-- 📊 Power BI
-- 📈 Pandas
-- 📉 Matplotlib
-- 🌱 Git
-- 📂 GitHub
+<p>
+  📊 Power BI &nbsp; | &nbsp; 🐼 Pandas &nbsp; | &nbsp; 📈 Matplotlib
+</p>
 
 ---
 
