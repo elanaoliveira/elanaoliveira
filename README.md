@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Elana Oliveira
 
-### Backend Developer | Software Development Student
+### Software Development Student | Backend Development Enthusiast
 
 💻 Python • Java • SQL
 
