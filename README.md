@@ -46,7 +46,7 @@ I'm passionate about technology and continuously improving my skills in software
 
 ## 🎯 Career Goal
 
-I am building practical projects to strengthen my software development skills and create solutions through technology.
+Seeking my first opportunity as a Junior Software Developer where I can apply my knowledge, continue learning, and contribute to impactful software projects.
 
 ---
 
